@@ -6,6 +6,10 @@ variable "env" {
   
 }
 
+variable "domain" {
+  
+}
+
 variable "sg_tags" {
     default = {}
   
